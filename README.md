@@ -1,4 +1,4 @@
-## Redux를 사용한 Global state를 관리
+## Redux를 사용한 Global state 관리
 
 Redux란?
 
@@ -22,3 +22,7 @@ Redux란?
 - 비로그인 상태에선 영화를 검색할 수 없어야 합니다.
 
 - 네이버 영화 목록을 가져올 때 유튜브처럼 lazy loading을 구현하셔야 됩니다.
+
+### 기한
+
+2주 간
